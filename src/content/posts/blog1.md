@@ -2,7 +2,7 @@
 title: Ataques de denegación de servicios DoS / DDoS
 published: 2024-09-19
 description: ''
-image: 'img/How_to_stop_DDoS_attacks_hero.png'
+image: ''
 tags: [ciberseguridad, ataques, dos, ddos]
 category: 'Ataques'
 draft: false 
