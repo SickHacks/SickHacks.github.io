@@ -17,7 +17,7 @@ lang: ''
 
 Cuidado, podrías estar frente a un ataque informático llamado **Phishing**
 
-![](img/Phishing%20account-amico.png.png)
+![ph1](img/Phishing%20account-amico.png)
 
 Los ataques de phishing son **correos electrónicos, mensajes de texto, llamadas telefónicas o sitios web fraudulentos** diseñados para manipular personas para que descarguen malware y/o compartan información personal como **credenciales de inicio de sesión, tarjetas de crédito, números de cuentas bancarias, etc.** Con el objetivo de **suplantar tú identidad.**
 
@@ -39,5 +39,5 @@ Es crucial mantenerse alerta ante mensajes sospechosos en la red, ya que podría
 
 De igual manera, hay que recordar que el cibercrimen evoluciona, es probable que en un futuro nos encontremos con una gran variedad de nuevas formas de estafa, debido a ello ser cauteloso e informado siempre será la mejor opción frente a cualquier ataque.
 
-![](img/3844074.png)
+![ph2](img/3844074.png)
 

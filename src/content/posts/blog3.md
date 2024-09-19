@@ -22,7 +22,7 @@ El hacker puede aprovechar la vulnerabilidad recién descubierta para:
 5. Lograr persistencia
 **Y mucho más...** 
 
-![](img/Hacker-amico.png)
+![a1](img/Hacker-amico.png)
 
 Es muy difícil evitar un zero day debido a que los desarrolladores no tienen tiempo para crear un parche o actualización que pueda resolver la vulnerabilidad, los sistemas informáticos quedan completamente expuestos para el atacante.
 
