@@ -1,16 +1,16 @@
 # Sobre mí
-## El Internet nunca fue diseñado para ser un lugar seguro -l0pht
+### El Internet nunca fue diseñado para ser un lugar seguro -l0pht
 
 **Estudios:**
 - Ingeniería Informática | INACAP
-________________________________________
+
 **Certificaciones:**
 - EFSET English Certificate (C2 Proficient)
 - Scrum Fundamentals Certified (SFC) SCRUMstudy
 - CISCO Introduction to Cybersecurity
 - Soporte computacional | INACAP
 - SENCE Fullstack - JAVA
-________________________________________
+
 **Campos de interés:**
 - Hacking
 - Programming
@@ -20,7 +20,7 @@ ________________________________________
 ________________________________________
 - *Programador nocturno adicto al café*  
 - *El truco es pegarse de cabeza contra el teclado*
-________________________________________
+
 Si estás interesado en la cultura hacker, te dejo algunos regalos:
 
 - [Hacker's Manifesto - The Mentor](https://phrack.org/issues/7/3.html)
