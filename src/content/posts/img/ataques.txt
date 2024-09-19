@@ -1,0 +1,16 @@
+12 ataques
+
+0. Zero Day
+1. Phishing
+2. Denegacion de servicio (DoS/DDoS)
+3. Ransomware
+4. SQL Injection
+5. Malvertising
+6. Man in the middle (MitM)
+7. Cross Site Scripting (XSS)
+8. Keylogger
+9. Ataque de fuerza bruta
+a. Ataque de diccionario
+b. Social engineering attack
+c. BackDoor Attack
+d. Spoofing
