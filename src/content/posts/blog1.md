@@ -3,7 +3,7 @@ title: Ataques de denegación de servicios DoS / DDoS
 published: 2024-09-19
 description: ''
 image: ''
-tags: [ciberseguridad, ataques, dos, ddos]
+tags: [ciberseguridad, ataques]
 category: 'Ataques'
 draft: false 
 lang: ''
