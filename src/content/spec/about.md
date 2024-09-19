@@ -1,21 +1,27 @@
-# About
-## Always Keep Learning!
+# Sobre mí
+## El Internet nunca fue diseñado para ser un lugar seguro -l0pht
 
-**Education:**
-- Information Technology Engineering | INACAP
+**Estudios:**
+- Ingeniería Informática | INACAP
 
-**Certifications:**
+**Certificaciones:**
 - EFSET English Certificate (C2 Proficient)
 - Scrum Fundamentals Certified (SFC) SCRUMstudy
 - CISCO Introduction to Cybersecurity
-- Computer Maintenance and Support INACAP
+- Soporte computacional | INACAP
 - SENCE Fullstack - JAVA
 
-**Fields of Interest:**
+**Campos de interés:**
 - Hacking
 - Programming
 - Forensics
 - Electronics
 - Networking
 
-*Coffee addict, Night owl.*
+*Adicto al café, paranoico, programador nocturno*
+*El truco es pegarse de cabeza contra el teclado*
+
+Si estas interesado en la cultura hacker, te dejo algunos regalos:
+[Hacker's Manifesto -The Mentor](https://phrack.org/issues/7/3.html)
+[How to become a hacker -Eric S. Raymond](http://www.catb.org/~esr/faqs/hacker-howto.html)
+[Hackers Testifying at the United States Senate, May 19, 1998 -L0pht -Joe Grand](https://www.youtube.com/watch?v=VVJldn_MmMY)
