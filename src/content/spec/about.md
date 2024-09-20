@@ -21,6 +21,7 @@ ________________________________________
 - *Programador nocturno adicto al café*  
 - *El truco es pegarse de cabeza contra el teclado*
 
+:::tip
 Si estás interesado en la cultura hacker, te dejo algunos regalos:
 
 - [Hacker's Manifesto - The Mentor](https://phrack.org/issues/7/3.html)
