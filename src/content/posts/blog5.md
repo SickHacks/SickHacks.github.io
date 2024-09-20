@@ -13,6 +13,7 @@ lang: ''
 
 **I LOVE YOU** fue uno de los virus informáticos mas notorios y destructivos de la historia. Surgió el 4 de mayo del año 2000, propagándose rápidamente a través de correo electrónico causando estragos alrededor de todo el mundo.
 
+
 ![](img/ilovu.png)
 
 
@@ -21,6 +22,9 @@ El infame virus llegaba camuflado bajo el aparente inofensivo asunto "I Love You
 Lo más curioso era la ingeniería social detrás del virus. Debido a que el mensaje de amor apelaba a la curiosidad y la emoción humana de la víctima, sin sospechar que detrás se encontraba un programa malicioso.
 
 Ya dentro del sistema el virus se propagaba de manera inmediata, sobrescribiendo archivos y eliminando archivos multimedia así como determinadas extensiones, como documentos de Word y Excel. El alcance y su velocidad tomaron por sorpresa a muchos usuarios y empresas, causando pérdidas económicas significativas y problemas generalizados de seguridad.
+
+
+![](img/ILOVEYOU.png)
 
 
 ## Origen y creación de I Love You

@@ -23,9 +23,9 @@ Los ataques de phishing son **correos electrónicos, mensajes de texto, llamadas
 
 El phishing es el ataque más recurrente en la red debido a que su éxito se basa en el error humano.
 El atacante al hacerse por una persona u organización en la que la victima confía (empresa donde trabaja, su banco, su jefe, etc) crea una sensación de urgencia que la lleva a actuar de manera precipitada.
-
+:::IMPORTANT
 ## ¿Cómo evitamos los ataques de phishing?
-
+:::
 1. **Utiliza doble factor de autenticación (2FA)**
    - Hazlo siempre que sea posible para añadir una capa adicional de seguridad.
 2. **Filtros Anti-Spam**

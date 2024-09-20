@@ -45,9 +45,9 @@ Pueden ser utilizadas para realizar distintos tipos de ciberataques, así como r
 
 ![](img/botnet1.png)
 
-
+:::IMPORTANT
 ### Ante todo esto... ¿Cómo puedo proteger mis dispositivos de las botnets?
-
+:::
 1. **Crear contraseñas seguras**
    - El uso de contraseñas seguras o gestores de contraseña que ayuden a crearlas y protegerlas es una buena medida de seguridad para malwares capaces de descifrar contraseñas débiles. 
 2. **Utilizar firewalls y antimalware**

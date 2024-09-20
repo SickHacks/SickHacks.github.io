@@ -43,9 +43,9 @@ El hacker lanzo un ataque a la empresa utilizando una **botnet** enviando una ca
 El ataque duro varios días a afecto **significativamente** a los servicios en línea, lo cual resulto en la interrupción de las transacciones y acceso a las cuentas de los usuarios.
 Las perdidas monetarias de Paypal fueron significativas, se estima que **la empresa perdió alrededor de $5.5 millones de dólares en ingresos.**
 
-
+:::IMPORTANT
 ## ¿Cómo podemos evitar una denegación de servicio en nuestro sistema?
-
+:::
 1. Firewall robusto
    - Utiliza un firewall potente para filtrar y bloquear trafico no deseado. 
 2. Servicios Anti-DDoS
