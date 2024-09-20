@@ -6,7 +6,7 @@ image: ''
 tags: [ciberseguridad, ataques]
 category: 'Ataques'
 draft: false 
-lang: ''
+lang: 'es'
 ---
 
 Alguna vez te has preguntado: “Si bien los programas y aplicaciones actuales tienen métodos de seguridad bastante confiables, ¿Qué sucedería si alguien atacara de una forma nunca vista?”

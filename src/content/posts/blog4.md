@@ -6,7 +6,7 @@ image: ''
 tags: [ciberseguridad, ataques]
 category: 'Ataques'
 draft: false 
-lang: ''
+lang: 'es'
 ---
 
 Actualmente el número de ciberataques que ocurren cada año ha ido en aumento con el paso del tiempo, según un estudio de Cybersecurity Ventures, en el 2023 hubieron aproximadamente **2200 casos de ataques informáticos al día, esto equivale a 1 ataque cada 39 segundos.**

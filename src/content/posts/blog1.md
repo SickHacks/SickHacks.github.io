@@ -6,7 +6,7 @@ image: ''
 tags: [ciberseguridad, ataques]
 category: 'Ataques'
 draft: false 
-lang: ''
+lang: 'es'
 ---
 
 

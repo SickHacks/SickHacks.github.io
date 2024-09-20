@@ -6,7 +6,7 @@ image: ''
 tags: [ciberseguridad, virus, malware]
 category: 'Malware'
 draft: false 
-lang: ''
+lang: 'es'
 ---
 
 ¿Qué pasaría si un día miras tu correo electrónico y encuentras un mensaje diciendo **"Te amo"** y dentro tiene un archivo llamado **"Carta de amor para ti"**?

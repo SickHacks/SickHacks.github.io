@@ -6,7 +6,7 @@ image: ''
 tags: [cultura]
 category: 'Cultura'
 draft: false 
-lang: ''
+lang: 'es'
 ---
 
 L0pht Heavy Industries fue un grupo de hackers que marcó la historia de la ciberseguridad en los años 90. Fundado en Boston en 1992, reunió a figuras como Mudge, Kingpin, Weld Pond, y otros que, desde un pequeño loft, comenzaron a investigar y publicar vulnerabilidades en sistemas de empresas como Microsoft, Apple y Novell.
