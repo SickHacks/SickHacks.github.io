@@ -9,35 +9,35 @@ draft: false
 lang: 'es'
 ---
 
-### Bandit 0
+## Bandit 0
 "The flag is stored in a file called readme located in the home directory."
 ```
 ls -> README -> cat README
 NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 ```
-
-### Bandit 1
+_______________
+## Bandit 1
 "The flag is stored in a file called - located in the home directory"
 ```
 ls -> - -> cat ./-
 rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 ```
-
-### Bandit 2
+_______________
+## Bandit 2
 "The flag is stored in a file called spaces in this filename located in the home directory"
 ```
 ls -> spaces in this filename -> cat "spaces in this filename"
 aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 ```
-
-### Bandit 3
+_______________
+## Bandit 3
 "The flag is stored in a hidden file in the inhere directory"
 ```	
 ls -> inhere -> cd inhere -> (hidden files) -> ls -a -> .  ..  .hidden -> cat .hidden
 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe		
 ```
-
-### Bandit 4
+_______________
+## Bandit 4
 "The flag is stored in the only human-readable file in the inhere directory"
 ```	
 ls -> inhere -> cd inhere -> -file00 -file01 -file02 -file03 -file04 -file05 -file06 -file07 -file08 -file09 -> cd (salimos de la carpeta inhere)
@@ -51,8 +51,8 @@ ls -> inhere -> cd inhere -> -file00 -file01 -file02 -file03 -file04 -file05 -fi
 
 -> cd inhere -> cat ./-file07  -->  lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 ```
-
-### Bandit 5
+_______________
+## Bandit 5
 "The flag is stored in a file somewhere under the inhere directory and has all of the following properties:"
 1. Human-readable	
 2. 1033 bytes in size	
@@ -61,8 +61,8 @@ ls -> inhere -> cd inhere -> -file00 -file01 -file02 -file03 -file04 -file05 -fi
 ls -> inhere --> find . -type f -readable -size 1033c ! -executable --> ./inhere/maybehere07/.file2 --> cat ./inhere/maybehere07/.file2 | xargs
 P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU 
 ```
-
-### Bandit 6
+_______________
+## Bandit 6
 "The flag is stored somewhere on the server and has all of the following properties:"
 1. Owned by user bandit7	
 2. Owned by group bandit6	
@@ -87,7 +87,7 @@ z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
 cat /var/lib/dpkg/info/bandit7.password
 z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S  
 ```
-
+_______________
 #### Bandit7
 	The flag is stored in the file data.txt next to the word millionth
 	
