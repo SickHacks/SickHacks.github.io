@@ -3,7 +3,7 @@ title: L0pht - El grupo hacker
 published: 2024-09-19
 description: ''
 image: ''
-tags: [Cultura]
+tags: [cultura]
 category: 'Cultura'
 draft: false 
 lang: ''

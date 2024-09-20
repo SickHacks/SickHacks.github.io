@@ -1,5 +1,5 @@
 # Sobre mí
-### El Internet nunca fue diseñado para ser un lugar seguro -l0pht
+#### El Internet nunca fue diseñado para ser un lugar seguro -l0pht
 
 1. **Estudios:**
    - Ingeniería Informática | INACAP
@@ -17,6 +17,9 @@
    - Forensics
    - Electronics
    - Networking
+
+4. **Logros :D**
+   - Primer lugar 🏆 Competencia de Hacking | HACKATHON TICSUR 2024 | UST 
 ________________________________________
 - *Programador nocturno adicto al café*  
 - *Si me preguntas... el truco es pegarse de cabeza contra el teclado*
