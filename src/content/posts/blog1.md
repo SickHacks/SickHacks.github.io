@@ -59,13 +59,3 @@ Mantén tu software y sistemas actualizados con los últimos parches de segurida
 
 ![DoS3](img/Server_status_amico.png)
 
-<img src="/img/Server_status_amico.png" alt="DoS3" width="300" />
-<img src="img/Server_status_amico.png" alt="DoS31" width="200" />
-<img src="img/Server_status_amico.png" alt="DoS32" width="100" />
-
-<img src="img/Server_status_amico.png" width="450" height="250">
-
-![DoS3](img/Server_status_amico.png){ width=300px }
-
-
-![DoS3](img/Server_status_amico.png =100x20)

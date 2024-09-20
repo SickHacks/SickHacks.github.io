@@ -4,7 +4,7 @@ published: 2024-09-19
 description: ''
 image: ''
 tags: [ciberseguridad, ataques]
-category: 'Ataques'
+category: 'Ataques, Malware'
 draft: false 
 lang: ''
 ---
