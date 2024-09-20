@@ -2,7 +2,7 @@
 title: "Fork Bomb - Entendiendo el ataque de denegación de servicio interno"
 published: 2024-09-20
 description: ''
-image: ''
+image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1lCzumfDiA4rGCGGVbaYGOb1LrZhG4ctmdA&s'
 tags: [ciberseguridad, virus, malware]
 category: 'Malware'
 draft: false 
