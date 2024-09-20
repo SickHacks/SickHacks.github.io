@@ -27,7 +27,7 @@ Aunque el grupo se disolvió a principios de los 2000, muchos de sus miembros co
 
 :::tip
 Si estás interesado puedes visitar la página oficial de [L0pht](https://l0pht.com/)
+:::
 
 
-<iframe width="940" height="705" src="https://www.youtube.com/embed/VVJldn_MmMY" title="Hackers Testifying at the United States Senate, May 19, 1998 (L0pht Heavy Industries)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="100%" height="468" src="https://www.youtube.com/embed/VVJldn_MmMY" title="Hackers Testifying at the United States Senate, May 19, 1998 (L0pht Heavy Industries)" frameborder="0" allowfullscreen></iframe>

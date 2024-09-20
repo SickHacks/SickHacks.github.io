@@ -19,11 +19,11 @@
    - Networking
 ________________________________________
 - *Programador nocturno adicto al café*  
-- *El truco es pegarse de cabeza contra el teclado*
+- *Si me preguntas... el truco es pegarse de cabeza contra el teclado*
 
 :::tip
 Si estás interesado en la cultura hacker, te dejo algunos regalos:
-
+:::
 - [Hacker's Manifesto - The Mentor](https://phrack.org/issues/7/3.html)
 - [How to become a hacker - Eric S. Raymond](http://www.catb.org/~esr/faqs/hacker-howto.html)
 - [Hackers Testifying at the United States Senate, May 19, 1998 - L0pht - Joe Grand](https://www.youtube.com/watch?v=VVJldn_MmMY)
