@@ -58,7 +58,7 @@ Utiliza herramientas de monitoreo para detectar patrones de trafico anormal y co
 Mantén tu software y sistemas actualizados con los últimos parches de seguridad. Esto ayuda a cerrar posibles vulnerabilidades que los atacantes podrían aprovechar.
 
 <!-- ![DoS3](img/Server%20status-amico.png) -->
-<img src="img/Server%20status-amico.png" alt="DoS3" width="300" />
-<img src="img/Server%20status-amico.png" alt="DoS3" width="200" />
-<img src="img/Server%20status-amico.png" alt="DoS3" width="100" />
+<img src="img/Server_status_amico.png" alt="DoS3" width="300" />
+<img src="img/Server_status_amico.png" alt="DoS31" width="200" />
+<img src="img/Server_status_amico.png" alt="DoS32" width="100" />
 
