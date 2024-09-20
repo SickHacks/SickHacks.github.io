@@ -1,24 +1,24 @@
 # Sobre mí
 #### El Internet nunca fue diseñado para ser un lugar seguro -l0pht
 
-1. **Estudios:**
+1. **Estudios**
    - Ingeniería Informática | INACAP
 
-2. **Certificaciones:**
+2. **Certificaciones**
    - EFSET English Certificate (C2 Proficient)
    - Scrum Fundamentals Certified (SFC) SCRUMstudy
    - CISCO Introduction to Cybersecurity
    - Soporte computacional | INACAP
    - SENCE Fullstack - JAVA
 
-3. **Campos de interés:**
+3. **Campos de interés**
    - Hacking
    - Programming
    - Forensics
    - Electronics
    - Networking
 
-4. **Logros :D**
+4. **Logros :)**
    - Primer lugar 🏆 Competencia de Hacking | HACKATHON TICSUR 2024 | UST 
 ________________________________________
 - *Programador nocturno adicto al café*  
