@@ -1,8 +1,8 @@
 
-## [sickhacks.github.io](https://sickhacks.github.io)
+## [SickHacks.github.io](https://sickhacks.github.io)
 
-A static blog template built with [Astro](https://astro.build).
-Template: [Fuwari](https://github.com/saicaca/fuwari)
+- Static blog template: [Fuwari](https://github.com/saicaca/fuwari)
+- Built with [Astro](https://astro.build)
 
 ![Preview Image](src/content/posts/img/preview.png)
 
