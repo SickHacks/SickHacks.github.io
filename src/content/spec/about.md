@@ -1,22 +1,22 @@
 # Sobre mí
 ### El Internet nunca fue diseñado para ser un lugar seguro -l0pht
 
-**Estudios:**
-- Ingeniería Informática | INACAP
+1. **Estudios:**
+   - Ingeniería Informática | INACAP
 
-**Certificaciones:**
-- EFSET English Certificate (C2 Proficient)
-- Scrum Fundamentals Certified (SFC) SCRUMstudy
-- CISCO Introduction to Cybersecurity
-- Soporte computacional | INACAP
-- SENCE Fullstack - JAVA
+2. **Certificaciones:**
+   - EFSET English Certificate (C2 Proficient)
+   - Scrum Fundamentals Certified (SFC) SCRUMstudy
+   - CISCO Introduction to Cybersecurity
+   - Soporte computacional | INACAP
+   - SENCE Fullstack - JAVA
 
-**Campos de interés:**
-- Hacking
-- Programming
-- Forensics
-- Electronics
-- Networking
+3. **Campos de interés:**
+   - Hacking
+   - Programming
+   - Forensics
+   - Electronics
+   - Networking
 ________________________________________
 - *Programador nocturno adicto al café*  
 - *El truco es pegarse de cabeza contra el teclado*

@@ -27,13 +27,13 @@ El atacante al hacerse por una persona u organización en la que la victima conf
 ## ¿Cómo evitamos los ataques de phishing?
 
 1. **Utiliza doble factor de autenticación (2FA)**
-Hazlo siempre que sea posible para añadir una capa adicional de seguridad.
+   - Hazlo siempre que sea posible para añadir una capa adicional de seguridad.
 2. **Filtros Anti-Spam**
-Utiliza o configura el filtro anti spam de tu correo electrónico, esto puede ayudar a **detectar y bloquear** mensajes de phishing antes de que lleguen a tu bandeja principal.
+   - Utiliza o configura el filtro anti spam de tu correo electrónico, esto puede ayudar a **detectar y bloquear** mensajes de phishing antes de que lleguen a tu bandeja principal.
 3. **Prudencia**
-**Nunca compartas información confidencial**, como contraseñas, números de tarjetas de crédito, información personal, a través de correos electrónicos o mensajes no seguros.
+   - **Nunca compartas información confidencial**, como contraseñas, números de tarjetas de crédito, información personal, a través de correos electrónicos o mensajes no seguros.
 4. **Verificar la seguridad de los sitios web**
-Antes de ingresar información a un sitio web, asegúrate que la **URL** comience con **"https://' (protocolo de transferencia segura de hipertexto)** en lugar de **'http://' (protocolo de transferencia de hipertexto)**
+   - Antes de ingresar información a un sitio web, asegúrate que la **URL** comience con **"https://' (protocolo de transferencia segura de hipertexto)** en lugar de **'http://' (protocolo de transferencia de hipertexto)**
 
 Es crucial mantenerse alerta ante mensajes sospechosos en la red, ya que podrían ser señales de un intento de phishing. Por lo tanto, es importante informar a la sociedad sobre los posibles medios de engaño junto con sus métodos de prevención.
 

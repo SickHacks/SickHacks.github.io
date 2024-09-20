@@ -47,15 +47,15 @@ Las perdidas monetarias de Paypal fueron significativas, se estima que **la empr
 ## ¿Cómo podemos evitar una denegación de servicio en nuestro sistema?
 
 1. Firewall robusto
-Utiliza un firewall potente para filtrar y bloquear trafico no deseado. 
+   - Utiliza un firewall potente para filtrar y bloquear trafico no deseado. 
 2. Servicios Anti-DDoS
-Contrata servicios especializados Anti-DDoS que puedan detectar y mitigar ataques.
+   - Contrata servicios especializados Anti-DDoS que puedan detectar y mitigar ataques.
 3. Limita la tasa de solicitudes
-Implementa limites en la tasa de solicitudes de clientes legítimos. Esto ayuda a prevenir que un atacante sobrecargue tu sistema con una gran cantidad de solicitudes.
+   - Implementa limites en la tasa de solicitudes de clientes legítimos. Esto ayuda a prevenir que un atacante sobrecargue tu sistema con una gran cantidad de solicitudes.
 4. Monitoreo y detección temprana
-Utiliza herramientas de monitoreo para detectar patrones de trafico anormal y comportamiento sospechoso.
+   - Utiliza herramientas de monitoreo para detectar patrones de trafico anormal y comportamiento sospechoso.
 5. Actualizaciones y parches regulares
-Mantén tu software y sistemas actualizados con los últimos parches de seguridad. Esto ayuda a cerrar posibles vulnerabilidades que los atacantes podrían aprovechar.
+   - Mantén tu software y sistemas actualizados con los últimos parches de seguridad. Esto ayuda a cerrar posibles vulnerabilidades que los atacantes podrían aprovechar.
 
 ![DoS3](img/Server_status_amico.png)
 
