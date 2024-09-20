@@ -15,7 +15,7 @@
    - Hacking
    - Programming
    - Forensics
-   - Electronics
+   - Hardware
    - Networking
 
 4. **Logros :)**
