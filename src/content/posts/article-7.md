@@ -56,7 +56,7 @@ El efecto es una saturación completa de los recursos, donde los usuarios y el s
 Dado que una fork bomb necesita acceso local al sistema, este tipo de ataque es especialmente preocupante en entornos de multiusuario, como servidores compartidos, entornos académicos, o incluso redes corporativas. Un usuario malintencionado con acceso limitado al sistema puede ejecutar una fork bomb para interrumpir los servicios para otros usuarios.
 
 :::IMPORTANT
-¿Cómo podemos protegernos de este ataque?
+### ¿Cómo podemos protegernos de este ataque?
 :::
 
 La mejor forma de protegerse de una fork bomb es limitar el número de procesos que cada usuario puede generar. Esto se puede hacer estableciendo políticas de uso de recursos a nivel del sistema operativo. En sistemas Linux, esta protección puede implementarse configurando el archivo /etc/security/limits.conf para restringir el número de procesos permitidos por usuario.
