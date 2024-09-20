@@ -57,4 +57,8 @@ Utiliza herramientas de monitoreo para detectar patrones de trafico anormal y co
 5. Actualizaciones y parches regulares
 Mantén tu software y sistemas actualizados con los últimos parches de seguridad. Esto ayuda a cerrar posibles vulnerabilidades que los atacantes podrían aprovechar.
 
-![DoS3](img/Server%20status-amico.png)
+<!-- ![DoS3](img/Server%20status-amico.png) -->
+<img src="img/Server%20status-amico.png" alt="DoS3" width="300" />
+<img src="img/Server%20status-amico.png" alt="DoS3" width="200" />
+<img src="img/Server%20status-amico.png" alt="DoS3" width="100" />
+
