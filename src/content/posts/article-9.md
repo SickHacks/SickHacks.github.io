@@ -15,6 +15,8 @@ lang: 'es'
 A lo largo de la historia de la informática, el hacking ha sido tanto una forma de expresión como una herramienta para desafiar los límites de la tecnología. Las palabras de quienes han estado inmersos en esta cultura ofrecen una visión única de la mentalidad hacker, destacando su creatividad, su pasión por el conocimiento y su inclinación por cuestionar las normas establecidas. A continuación, les presento una recopilación de citas, las cuales reflejan las ideas, motivaciones y desafíos de algunos de los personajes y grupos más representativos de la cultura hacker.
 _________
 
+### Citas
+
 1. "If you don’t know how to hack, you can’t do anything." – Kevin Mitnick  
    - *Si no sabes hackear, no puedes hacer nada.* 
 
@@ -46,19 +48,19 @@ _________
     - *La gente no debería temer a su gobierno. Los gobiernos deberían temer a su gente.*
 
 11.  "Security is a process, not a product." – Bruce Schneier  
-    - *La seguridad es un proceso, no un producto.*
+     - *La seguridad es un proceso, no un producto.*
 
 12.  "The greatest barrier to finding exploits is a lack of curiosity." – Dan Kaminsky  
-    - *La mayor barrera para encontrar vulnerabilidades es la falta de curiosidad.*
+     - *La mayor barrera para encontrar vulnerabilidades es la falta de curiosidad.*
 
 13.  "Hackers are just people who want to learn, experiment, and create. The laws are irrelevant." – Kevin Poulsen  
-    - *Los hackers son solo personas que quieren aprender, experimentar y crear. Las leyes son irrelevantes.*
+     - *Los hackers son solo personas que quieren aprender, experimentar y crear. Las leyes son irrelevantes.*
 
 14.  "To hack is to make, and making is an act of freedom." – Mitch Altman  
-    - *Hackear es crear, y crear es un acto de libertad.*
+     - *Hackear es crear, y crear es un acto de libertad.*
 
 15.  "Information is power. But like all power, there are those who want to keep it for themselves." – Aaron Swartz
-    - *La información es poder. Pero como todo poder, hay quienes quieren mantenerlo para sí mismos.*
+     - *La información es poder. Pero como todo poder, hay quienes quieren mantenerlo para sí mismos.*
 
 
 ________
