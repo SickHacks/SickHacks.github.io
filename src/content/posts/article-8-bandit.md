@@ -9,6 +9,50 @@ draft: false
 lang: 'es'
 ---
 
+```
+      ,----..            ,----,          .---.
+     /   /   \         ,/   .`|         /. ./|
+    /   .     :      ,`   .'  :     .--'.  ' ;
+   .   /   ;.  \   ;    ;     /    /__./ \ : |
+  .   ;   /  ` ; .'___,/    ,' .--'.  '   \' .
+  ;   |  ; \ ; | |    :     | /___/ \ |    ' '
+  |   :  | ; | ' ;    |.';  ; ;   \  \;      :
+  .   |  ' ' ' : `----'  |  |  \   ;  `      |
+  '   ;  \; /  |     '   :  ;   .   \    .\  ;
+   \   \  ',  /      |   |  '    \   \   ' \ |
+    ;   :    /       '   :  |     :   '  |--"
+     \   \ .'        ;   |.'       \   \ ;
+  www. `---` ver     '---' he       '---" ire.org
+```
+
+Bandit es un juego de desafíos de seguridad que forma parte de la plataforma OverTheWire. Está diseñado para enseñar conceptos básicos de seguridad y administración de sistemas a través de ejercicios prácticos. Bandit se enfoca en la manipulación de archivos, permisos, comandos de Linux y algunos aspectos de la programación en bash.
+
+Los desafíos están organizados en niveles, donde cada nivel requiere resolver una tarea para obtener una contraseña (flag), que luego se utiliza para acceder al siguiente nivel. Es una excelente forma de aprender o practicar habilidades de terminal y seguridad informática en un entorno controlado.
+
+En el siguiente artículo, encontrarás una serie de writeups que documentan la resolución de los ejercicios.
+
+A lo largo de este recorrido, se explican las soluciones a cada uno de los niveles, proporcionando detalles sobre las herramientas y estrategias utilizadas para obtener las contraseñas que permiten avanzar al siguiente desafío.
+
+```
+             _                     _ _ _
+            | |__   __ _ _ __   __| (_) |_
+            | '_ \ / _` | '_ \ / _` | | __|
+            | |_) | (_| | | | | (_| | | |_
+            |_.__/ \__,_|_| |_|\__,_|_|\__|
+
+           This is an OverTheWire game server.
+   More information on http://www.overthewire.org/wargames
+
+```
+:::TIP
+Para comenzar con los ejercicios de Bandit, es necesario que ingreses utilizando `SSH`.
+El host al que debes conectarte es `bandit.labs.overthewire.org` en el puerto `2220`
+Username: bandit0, Password: bandit0
+`$ ssh bandit0@bandit.labs.overthewire.org -p 2220`
+:::
+
+### Happy Hacking! 
+
 ## Bandit 0
 *"The flag is stored in a file called readme located in the home directory."*
 ```
