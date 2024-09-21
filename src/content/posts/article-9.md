@@ -32,35 +32,36 @@ _________
 5. "Hacking is not a crime, it’s a tool to explore the digital world." – Emmanuel Goldstein (Eric Corley)  
    - *El hacking no es un crimen, es una herramienta para explorar el mundo digital.*
 
-6.  "There is no system immune to hacking." – Charlie Miller  
-    - *No hay ningún sistema inmune al hacking.*
+6. "There is no system immune to hacking." – Charlie Miller  
+   - *No hay ningún sistema inmune al hacking.*
 
-7.  "We are the last free voice in a world going silent." – The Cult of the Dead Cow (cDc)  
-    - *Somos la última voz libre en un mundo que se está quedando en silencio.*
+7. "We are the last free voice in a world going silent." – The Cult of the Dead Cow (cDc)  
+   - *Somos la última voz libre en un mundo que se está quedando en silencio.*
 
-8.  "Technology can be used to liberate or enslave. The choice is ours." – Julian Assange  
-    - *La tecnología puede usarse para liberar o para esclavizar. La elección es nuestra.*
+8. "Technology can be used to liberate or enslave. The choice is ours." – Julian Assange  
+   - *La tecnología puede usarse para liberar o para esclavizar. La elección es nuestra.*
 
-9.  "Governments don't want well-informed, well-educated people capable of critical thinking." – Aaron Swartz  
-    - *Los gobiernos no quieren personas bien informadas y educadas, capaces de pensar críticamente.*
+9. "Governments don't want well-informed, well-educated people capable of critical thinking." – Aaron Swartz  
+   - *Los gobiernos no quieren personas bien informadas y educadas, capaces de pensar críticamente.*
 
 10. "People shouldn’t fear their government. Governments should fear their people." – LulzSec  
     - *La gente no debería temer a su gobierno. Los gobiernos deberían temer a su gente.*
 
-11.  "Security is a process, not a product." – Bruce Schneier  
+11. "Security is a process, not a product." – Bruce Schneier  
     - *La seguridad es un proceso, no un producto.*
 
-12.  "The greatest barrier to finding exploits is a lack of curiosity." – Dan Kaminsky  
+12. "The greatest barrier to finding exploits is a lack of curiosity." – Dan Kaminsky  
     - *La mayor barrera para encontrar vulnerabilidades es la falta de curiosidad.*
 
-13.  "Hackers are just people who want to learn, experiment, and create. The laws are irrelevant." – Kevin Poulsen  
+13. "Hackers are just people who want to learn, experiment, and create. The laws are irrelevant." – Kevin Poulsen  
     - *Los hackers son solo personas que quieren aprender, experimentar y crear. Las leyes son irrelevantes.*
 
-14.  "To hack is to make, and making is an act of freedom." – Mitch Altman  
+14. "To hack is to make, and making is an act of freedom." – Mitch Altman  
     - *Hackear es crear, y crear es un acto de libertad.*
 
-15.  "Information is power. But like all power, there are those who want to keep it for themselves." – Aaron Swartz
+15. "Information is power. But like all power, there are those who want to keep it for themselves." – Aaron Swartz  
     - *La información es poder. Pero como todo poder, hay quienes quieren mantenerlo para sí mismos.*
+
 
 
 ________
