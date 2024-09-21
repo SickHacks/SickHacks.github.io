@@ -7,6 +7,7 @@ tags: []
 category: ''
 draft: false 
 lang: 'es'
+import Image from '../components/Image.astro';
 ---
 
 
