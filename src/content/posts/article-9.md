@@ -16,7 +16,7 @@ A lo largo de la historia de la informática, el hacking ha sido tanto una forma
 
 
 1. "If you don’t know how to hack, you can’t do anything." – Kevin Mitnick  
-   *Si no sabes hackear, no puedes hacer nada.*
+   *Si no sabes hackear, no puedes hacer nada.* 
 
 2. "There are no secure systems, only secure people." – Bruce Schneier  
    *No existen sistemas seguros, solo personas seguras.*
@@ -66,6 +66,11 @@ A lo largo de la historia de la informática, el hacking ha sido tanto una forma
 17. "It’s not about breaking the rules, it’s about testing the limits." – Fyodor  
     *No se trata de romper las reglas, sino de probar los límites.*
 
+18. "Information is power. But like all power, there are those who want to keep it for themselves." – Aaron Swartz
+    *La información es poder. Pero como todo poder, hay quienes quieren mantenerlo para sí mismos.*
+
+19. ""Yes, I am a criminal. My crime is curiosity." - The Mentor
+    *Sí, soy un criminal. Mi crimen es la curiosidad.* 
 
 :::NOTE
 - En futuros artículos, profundizaré en algunos de los grupos y figuras más influyentes de la cultura hacker, explorando su impacto y legado dentro de este fascinante mundo.
