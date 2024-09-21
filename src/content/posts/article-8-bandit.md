@@ -1,7 +1,7 @@
 ---
 title: Bandit - OverTheWire
 published: 2024-09-20
-description: 'Write Up de los ejercicios de Bandit - OverTheWire'
+description: 'Write-Ups de los ejercicios de Bandit - OverTheWire'
 image: ''
 tags: [writeups, linux, bash, hacking]
 category: 'WriteUps'
@@ -398,7 +398,7 @@ fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
 _______________
 
 ## Bandit 14
-*"The password for the next level can be retrieved by submitting the password of the current level to **port 30000 on localhost**."*
+*"The password for the next level can be retrieved by submitting the password of the current level to port 30000 on localhost."*
 1. Comandos útiles:
       - `ssh`, `telnet`, `nc`, `openssl`, `s_client`, `nmap`
 
