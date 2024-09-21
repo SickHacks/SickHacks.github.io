@@ -18,59 +18,50 @@ _________
 1. "If you don’t know how to hack, you can’t do anything." – Kevin Mitnick  
    - *Si no sabes hackear, no puedes hacer nada.* 
 
-2. "There are no secure systems, only secure people." – Bruce Schneier  
-   - *No existen sistemas seguros, solo personas seguras.*
-
-3. "I was addicted to hacking, more for the intellectual challenge, the curiosity, the seduction of adventure." – Kevin Mitnick  
+2. "I was addicted to hacking, more for the intellectual challenge, the curiosity, the seduction of adventure." – Kevin Mitnick  
    - *Estaba adicto al hacking, más por el desafío intelectual, la curiosidad, la seducción de la aventura.*
 
-4. "It’s not about the money. It’s about the challenge." – Adrian Lamo  
+3. "It’s not about the money. It’s about the challenge." – Adrian Lamo  
    - *No se trata del dinero. Se trata del desafío.*
 
-5. "A hacker to me is someone creative who does wonderful things." – Tim Berners-Lee  
+4. "A hacker to me is someone creative who does wonderful things." – Tim Berners-Lee  
    - *Para mí, un hacker es alguien creativo que hace cosas maravillosas.*
 
-6. "Hacking is not a crime, it’s a tool to explore the digital world." – Emmanuel Goldstein (Eric Corley)  
+5. "Hacking is not a crime, it’s a tool to explore the digital world." – Emmanuel Goldstein (Eric Corley)  
    - *El hacking no es un crimen, es una herramienta para explorar el mundo digital.*
 
-7.  "There is no system immune to hacking." – Charlie Miller  
+6.  "There is no system immune to hacking." – Charlie Miller  
     - *No hay ningún sistema inmune al hacking.*
 
-8.  "We are the last free voice in a world going silent." – The Cult of the Dead Cow (cDc)  
+7.  "We are the last free voice in a world going silent." – The Cult of the Dead Cow (cDc)  
     - *Somos la última voz libre en un mundo que se está quedando en silencio.*
 
-9.  "Technology can be used to liberate or enslave. The choice is ours." – Julian Assange  
+8.  "Technology can be used to liberate or enslave. The choice is ours." – Julian Assange  
     - *La tecnología puede usarse para liberar o para esclavizar. La elección es nuestra.*
 
-10. "Governments don't want well-informed, well-educated people capable of critical thinking." – Aaron Swartz  
+9.  "Governments don't want well-informed, well-educated people capable of critical thinking." – Aaron Swartz  
     - *Los gobiernos no quieren personas bien informadas y educadas, capaces de pensar críticamente.*
 
-11. "People shouldn’t fear their government. Governments should fear their people." – LulzSec  
+10. "People shouldn’t fear their government. Governments should fear their people." – LulzSec  
     - *La gente no debería temer a su gobierno. Los gobiernos deberían temer a su gente.*
 
-12. "This isn’t a 'hack,' this is a lesson to the world about how power works." – Anonymous (Operation Payback)  
-- *Esto no es un 'hack', es una lección al mundo sobre cómo funciona el poder.*
-
-1.  "Security is a process, not a product." – Bruce Schneier  
+11.  "Security is a process, not a product." – Bruce Schneier  
     - *La seguridad es un proceso, no un producto.*
 
-2.  "The greatest barrier to finding exploits is a lack of curiosity." – Dan Kaminsky  
+12.  "The greatest barrier to finding exploits is a lack of curiosity." – Dan Kaminsky  
     - *La mayor barrera para encontrar vulnerabilidades es la falta de curiosidad.*
 
-3.  "Hackers are just people who want to learn, experiment, and create. The laws are irrelevant." – Kevin Poulsen  
+13.  "Hackers are just people who want to learn, experiment, and create. The laws are irrelevant." – Kevin Poulsen  
     - *Los hackers son solo personas que quieren aprender, experimentar y crear. Las leyes son irrelevantes.*
 
-4.  "To hack is to make, and making is an act of freedom." – Mitch Altman  
+14.  "To hack is to make, and making is an act of freedom." – Mitch Altman  
     - *Hackear es crear, y crear es un acto de libertad.*
 
-5.  "It’s not about breaking the rules, it’s about testing the limits." – Fyodor  
-    - *No se trata de romper las reglas, sino de probar los límites.*
-
-6.  "Information is power. But like all power, there are those who want to keep it for themselves." – Aaron Swartz
+15.  "Information is power. But like all power, there are those who want to keep it for themselves." – Aaron Swartz
     - *La información es poder. Pero como todo poder, hay quienes quieren mantenerlo para sí mismos.*
 
-7.  "Yes, I am a criminal. My crime is curiosity." - The Mentor
-    - *Sí, soy un criminal. Mi crimen es la curiosidad.* 
+
+________
 
 :::NOTE
 - En futuros artículos, profundizaré en algunos de los grupos y figuras más influyentes de la cultura hacker, explorando su impacto y legado dentro de este fascinante mundo.
