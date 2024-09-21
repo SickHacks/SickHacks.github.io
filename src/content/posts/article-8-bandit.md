@@ -3,7 +3,7 @@ title: Bandit - OverTheWire
 published: 2024-09-20
 description: 'Write Up de los ejercicios de Bandit - OverTheWire'
 image: ''
-tags: [writeups]
+tags: [writeups, linux, bash, hacking]
 category: 'WriteUps'
 draft: false 
 lang: 'es'
@@ -42,16 +42,19 @@ A lo largo de este recorrido, se explican las soluciones a cada uno de los nivel
 
            This is an OverTheWire game server.
    More information on http://www.overthewire.org/wargames
-
 ```
+
 :::TIP
-Para comenzar con los ejercicios de Bandit, es necesario que ingreses utilizando `SSH`.
-El host al que debes conectarte es `bandit.labs.overthewire.org` en el puerto `2220`
-Username: bandit0, Password: bandit0
-`$ ssh bandit0@bandit.labs.overthewire.org -p 2220`
+- Para comenzar con los ejercicios de Bandit, es necesario que ingreses utilizando `SSH`.
+- El host al que debes conectarte es `bandit.labs.overthewire.org` en el puerto `2220`
+- Username: bandit0, Password: bandit0
+- `$ ssh bandit0@bandit.labs.overthewire.org -p 2220`
 :::
 
-### Happy Hacking! 
+#### Happy Hacking! 
+
+_______________
+
 
 ## Bandit 0
 *"The flag is stored in a file called readme located in the home directory."*
