@@ -5,15 +5,7 @@ description: ''
 image: ''
 tags: []
 category: ''
-draft: false 
+draft: true 
 lang: 'es'
 ---
 
-import Image from '../components/Image.astro';
-
-## Tu contenido aquí
-
-<Image src="img/500InternalServerError-amico.png" alt="Descripción de la imagen" width="100" />
-<Image src="img/500InternalServerError-amico.png" alt="Descripción de la imagen" width="200" />
-<Image src="img/500InternalServerError-amico.png" alt="Descripción de la imagen" width="300" />
-<Image src="img/500InternalServerError-amico.png" alt="Descripción de la imagen" width="400" />
