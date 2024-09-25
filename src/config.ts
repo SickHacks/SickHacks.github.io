@@ -28,7 +28,7 @@ export const siteConfig: SiteConfig = {
      {
       src: 'favicon/favicon-custom.png',    // Path of the favicon, relative to the /public directory
     //   theme: 'light',              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
-       sizes: '32x32',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
+       sizes: '42x42',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
      }
   ]
 }

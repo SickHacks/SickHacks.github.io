@@ -1,5 +1,5 @@
 ---
-title: Phishing - Evita el robot de tú identidad
+title: Phishing - Evita el robot de tu identidad
 published: 2024-09-19
 description: ''
 image: ''

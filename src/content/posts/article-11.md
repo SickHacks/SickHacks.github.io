@@ -3,9 +3,9 @@ title: La aleatoriedad no existe en las máquinas
 published: 2024-09-21
 description: ''
 image: ''
-tags: []
+tags: [programación]
 category: 'Programación'
-draft: true 
+draft: false 
 lang: 'es'
 ---
 

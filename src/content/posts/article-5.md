@@ -3,7 +3,7 @@ title: El virus más famoso del mundo - I LOVE YOU
 published: 2024-09-19
 description: ''
 image: ''
-tags: [ciberseguridad, virus, malware]
+tags: [ciberseguridad, malware]
 category: 'Malware'
 draft: false 
 lang: 'es'
