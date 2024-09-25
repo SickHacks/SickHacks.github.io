@@ -3,8 +3,8 @@ title: Bandit - OverTheWire
 published: 2024-09-20
 description: 'Write-Ups de los ejercicios de Bandit - OverTheWire'
 image: ''
-tags: [writeups, linux, bash, hacking]
-category: 'WriteUps'
+tags: [writeup, linux, bash, hacking]
+category: 'Bandit'
 draft: false 
 lang: 'es'
 ---

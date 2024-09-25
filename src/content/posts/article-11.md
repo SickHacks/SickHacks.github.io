@@ -9,8 +9,6 @@ draft: false
 lang: 'es'
 ---
 
-# La Falsa Aleatoriedad en las Máquinas: ¿Qué Tan Azarosas Son Realmente?
-
 Cuando hablamos de **aleatoriedad**, solemos pensar en algo completamente impredecible. Sin embargo, cuando se trata de máquinas, como las computadoras, esta idea se convierte en una ilusión. Las computadoras son sistemas deterministas: siempre siguen reglas predefinidas. Entonces, ¿Cómo logran generar lo que parece ser "azar"?
 
 ## ¿Qué Tan Aleatorias Son Las Computadoras?
