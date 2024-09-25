@@ -1,5 +1,5 @@
 ---
-title: Ataques de día cero
+title: Ataque de día cero
 published: 2024-09-19
 description: ''
 image: ''
