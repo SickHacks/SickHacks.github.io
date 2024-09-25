@@ -4,7 +4,22 @@ published: 2024-09-21
 description: ''
 image: ''
 tags: []
-category: ''
+category: 'Programación'
 draft: true 
 lang: 'es'
 ---
+
+
+
+
+[](img/aleatoriedad.png)
+
+
+asdasd
+asd
+asd
+asd
+asd
+
+
+[](img/aleatoriedad2.png)
