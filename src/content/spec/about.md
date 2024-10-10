@@ -1,5 +1,5 @@
 # Sobre mí
-#### El Internet nunca fue diseñado para ser un lugar seguro -l0pht
+#### “Information is power. But like all power, there are those who want to keep it for themselves.” -Aaron Swartz
 
 1. **Estudios**
    - Ingeniería Informática | INACAP
@@ -14,14 +14,13 @@
 3. **Campos de interés**
    - Hacking
    - Programming
-   - Forensics
    - Hardware
    - Networking
 
 4. **Logros :)**
    - Primer lugar 🏆 Competencia de Hacking | HACKATHON TICSUR 2024 | UST 
 ________________________________________
-- *Programador nocturno adicto al café*  
+- *Programador nocturno*  
 - *Si me preguntas... el truco es pegarse de cabeza contra el teclado*
 
 :::tip

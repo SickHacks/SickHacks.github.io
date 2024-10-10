@@ -109,7 +109,7 @@ Aquí no fue necesario pero podemos ver el sistema operativo con el comando "nma
 :::
 
 
-7. ¿Cuál es el comando que debemos ejecutar para mostrar el menú de ayuda del cliente `ftp`?
+7. ¿Cuál es el comando que debemos ejecutar para mostrar el menú de ayuda del cliente `ftp`?   
 Respuesta: *ftp -h*   
 (-h viene de help)
 
