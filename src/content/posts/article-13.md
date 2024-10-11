@@ -182,6 +182,15 @@ local: flag.txt remote: flag.txt
 Por default cuando haces *get flag.txt* el archivo se enviará al directorio donde te encuentras situado
 :::
 
+Puedes indicar donde quieres que se envie el archivo de la siguiente forma:
+```
+kali@kali:~$ get flag.txt /ruta/donde/quieres/guardar/flag.txt
+```
+Para enviar un archivo por FTP puedes utilizar `put`
+```
+kali@kali:~$ put /home/usuario/Documentos/flag.txt
+```
+
 Respuesta: *get*
 
 12. Envía la flag
